@@ -13,6 +13,6 @@
 ## Simulación Del Circuito
 <image src="Images/SimulacionCircuito.png" width="70%" height="70%" alt="AFD">
 
-[Ir a la Simulación](URL 'https://www.tinkercad.com/things/8sfWyPogGOj?sharecode=EMXmGOINTK33ZrOUUcy7ztfuRoRfS7-Fw6509SurUV8')
+<a href="https://www.tinkercad.com/things/8sfWyPogGOj?sharecode=EMXmGOINTK33ZrOUUcy7ztfuRoRfS7-Fw6509SurUV8" title="Simulacion Circuito">Ir a la Simulación del Circuito</a>
 
 [Subir](#top)
