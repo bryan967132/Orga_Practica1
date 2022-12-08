@@ -5,7 +5,7 @@
 ## Compuertas Lógicas Con Transistores
 | AND | OR | NOT |
 |-----|----|-----|
-|<image src="Images/AND.png" alt="AFD">|<image src="Images/OR.png" height="70%" alt="AFD">|<image src="Images/NOT.png"  alt="AFD">|
+|<image src="Images/AND.png" alt="AFD">|<image src="Images/OR.png" alt="AFD">|<image src="Images/NOT.png"  alt="AFD">|
 
 ## Diagrama Del Circuito Con Transistores
 <image src="Images/CompuertasLogicasDeTransistores.png" width="70%" height="70%" alt="AFD">
